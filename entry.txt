@@ -1,0 +1,1 @@
+status: idle. cursor blinking on the empty line where your last sentence stopped.
